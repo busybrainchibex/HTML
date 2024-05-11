@@ -1,0 +1,26 @@
+.first{ font-size: 3rem;
+    background-color: rgb(46, 206, 153);
+    
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+.second{
+    background-color: rgb(138, 14, 14);
+    
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+}
+.third{
+    background-color: rgb(13, 13, 124);
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+}
+
+
+
+
+
+

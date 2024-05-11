@@ -1,0 +1,16 @@
+h1{
+    /* color: rgba(219, 36, 97, 0.5);  */
+    /* color: #18d32e; */
+    /* color: #aa55dd; */
+    color: #a5d;
+    /* font-size: 60px; */
+    font-size: 3rem;
+    background-color: red;
+    width: 50vw;
+    button{
+        width: 50%;
+        
+        background-color: rgba(14, 210, 94, 108);
+        
+    }
+}

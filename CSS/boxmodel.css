@@ -1,0 +1,33 @@
+h1{
+    background-color: #ed4563;
+    text-align: center;
+    width: 15rem;
+    height: 15rem;
+     /* padding-top: 3rem;
+    padding-left: 3rem;
+    padding-bottom: 3rem; */
+    border-radius: 50%;
+    overflow: auto;
+
+    /* padding: 1rem 2rem 3rem 4rem; */
+
+    /* margin: 6rem; */
+    /* margin: 3rem 4rem 5rem ; */
+   /* width: 50vw;
+    margin: auto;
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: #a43dfc;*/
+    border: #fed432 1rem solid;
+    /*outline: 1rem dashed #456edc;*/
+    /*border-radius: 4rem;*/
+    
+}
+
+input{
+    width: 90%;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    border: 2px solid blue;
+}
